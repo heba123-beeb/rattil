@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "7b1c21010bfeb43aaec20d0f69ee2baf"
+        "md5": "fe0cbf13b216460a45acab0b7f25b81b"
     },
     {
         "path": "assets",
@@ -82,17 +82,17 @@
     {
         "path": "/authors/heba-allam/index.html",
         "type": "file",
-        "md5": "50cc76f721d58aaca1cfe9fa5683cede"
+        "md5": "bb14abd20306b6c92c1788ba6bb81e63"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "20a74121d83412aaf2e81ad865bbcb3e"
+        "md5": "d96f0a44a7e447ca3d5edc879d702135"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "c9931064ba0350463ee1b7957da6bc14"
+        "md5": "d2c5f38d19e4cc4e2eda19338dd10cdd"
     },
     {
         "path": "free-quran-classes-in-australia-start-your-journey-with-rattil-online-academy",
@@ -102,12 +102,12 @@
     {
         "path": "/free-quran-classes-in-australia-start-your-journey-with-rattil-online-academy/index.html",
         "type": "file",
-        "md5": "ccb93610b2c207589bec01b3b6acd6ed"
+        "md5": "d402768e2a3550b7856e75ba49e9d3f3"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "582b598960236ff5f7ff7a61302685c4"
+        "md5": "c2d8265b617bf55e7870b6973b30951f"
     },
     {
         "path": "learn-quran-online-academy-teaching-methods-steps-and-parent-guide",
@@ -117,7 +117,7 @@
     {
         "path": "/learn-quran-online-academy-teaching-methods-steps-and-parent-guide/index.html",
         "type": "file",
-        "md5": "b5a042aaaa862bba12f3a2cfe4762cd8"
+        "md5": "877b044362f91fc2e419e21b95281cc6"
     },
     {
         "path": "learn-quran-online-with-tajweed-for-kids-a-complete-guide-for-parents",
@@ -127,7 +127,7 @@
     {
         "path": "/learn-quran-online-with-tajweed-for-kids-a-complete-guide-for-parents/index.html",
         "type": "file",
-        "md5": "d662107ae328cdd046b5d6389369f8b4"
+        "md5": "b9bfc848960991d4a5e652c5f36fedc7"
     },
     {
         "path": "media",
@@ -372,7 +372,7 @@
     {
         "path": "/quran-online-academy-complete-parent-guide/index.html",
         "type": "file",
-        "md5": "53468b74258961f35a73b3b87421e1cb"
+        "md5": "6dac00c136c698546f84701d5b69c73e"
     },
     {
         "path": "rattil-online-the-smart-choice-for-quran-learning-in-the-united-kingdom",
@@ -382,17 +382,17 @@
     {
         "path": "/rattil-online-the-smart-choice-for-quran-learning-in-the-united-kingdom/index.html",
         "type": "file",
-        "md5": "73c234a1535e5c46a9fb98b59e8e3ae0"
+        "md5": "4dc145bee82938e696e2a53a495b711e"
     },
     {
         "path": "robots.txt",
         "type": "file",
-        "md5": "8eaea02f26e8d633134df809ea9d7278"
+        "md5": "1e0d92d32a9b84324374e402629150e5"
     },
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "a2e88eb73e6c1abb1b4146b18e45f17b"
+        "md5": "449b2ea663becae9259993852e275237"
     },
     {
         "path": "sitemap.xsl",
@@ -407,6 +407,6 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "eda189b199188c5f3f39043ac975d632"
+        "md5": "f2f414b631a2726035f7ac3c11680138"
     }
 ]
